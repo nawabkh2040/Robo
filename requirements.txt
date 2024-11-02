@@ -1,0 +1,11 @@
+opencv-python
+opencv-python-headless
+mediapipe
+tensorflow
+tensorflow-gpu  # Optional: only if you want GPU support and have a compatible setup
+torch  # Required for YOLO models
+ultralytics
+pyttsx3
+SpeechRecognition
+pyaudio
+numpy
